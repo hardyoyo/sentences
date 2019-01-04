@@ -16,7 +16,7 @@ warble compiled runnable jar sentences.rb
 
 ## JUICE
 
-A simple Bash script, juice.sh is provided to wrap the Sentences Jar and to also use the GNU Strings command to extract sensible text information from any binary file.
+A simple Bash script, [juice.sh](./juice.sh) is provided to wrap the Sentences Jar and to also use the GNU Strings command to extract sensible text information from any binary file.
 
 ## Yep, this could all be better
 
