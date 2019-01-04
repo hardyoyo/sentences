@@ -22,3 +22,6 @@ A simple Bash script, juice.sh is provided to wrap the Sentences Jar and to also
 
 Pull requests accepted, this is a work in progress, albeit a pretty useful one.
 
+---
+[![GPL 3.0 License](https://img.shields.io/github/license/hardyoyo/sentences.svg)](./LICENSE)
+---
