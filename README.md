@@ -18,6 +18,10 @@ warble compiled runnable jar sentences.rb
 
 A simple Bash script, [juice.sh](./juice.sh) is provided to wrap the Sentences Jar and to also use the GNU Strings command to extract sensible text information from any binary file.
 
+## Juice in use
+
+Here's a [DSpace media filter plugin](https://github.com/UCLALibrary/DSpace/blob/ucla-vsim-6_x/dspace-api/src/main/java/org/dspace/app/mediafilter/WildcardFilter.java) that uses the juice command to create a full-text index for *any* binary file.
+
 ## Yep, this could all be better
 
 Pull requests accepted, this is a work in progress, albeit a pretty useful one.
